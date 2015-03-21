@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Contact Plus</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Contact Plus</string>
+    <string name="main_title">Add Contact</string>
+    <string name="add_contact_subhead">Add your new contact here!</string>
+    <string name="main_input_placeholder_email">Email</string>
+    <string name="main_input_placeholder_name">Name</string>
+    <string name="main_input_placeholder_phone">Phone Number</string>
+    <string name="main_input_placeholder_address">Address</string>
+    <string name="main_input_button_add_contact">Save contact</string>
+    <string name="main_input_button_cancel">Cancel</string>
+
+</resources>
